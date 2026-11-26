@@ -42,14 +42,14 @@ Requirements: Windows 10 / 11, 64-bit.
 - **Shop**: click the money on the status bar to open the shop. Click an item to select it, then hit **BUY**. Pizza €15, NiCola €8.
 - **Stash**: click any stat on the status bar to open your stash. Click a snack or drink, or drag it onto Judy to feed her.
 - **Right-click Judy** for her action menu, then **ACTIONS** to tell her what to do: Eat, Drink, Sleep, Change room, or Stop (whatever she's doing).
-- Judy looks after herself too: she goes to bed when she's tired or when it's bedtime, eats and drinks when she's hungry or thirsty, and if the stash is empty she'll order something, as long as she can afford it.
+- **Judy looks after herself too**: she goes to bed when she's tired or when it's bedtime, eats and drinks when she's hungry or thirsty, and if the stash is empty she'll order something, as long as she can afford it.
 - **Menu** (top-left icon): Hide UI, Pause, Journal, Settings, Quit.
 - **Move Pet** (top-left icon): drag to move the whole pet window.
 - **UI hidden?** Right-click Judy → Restore UI.
 - **Paused?** Right-click anywhere on the pet window to resume.
 - **Journal**: a log of everything Judy's been up to (keeps the latest 500 entries).
 - **Settings**: volume, panel opacity, window size (three steps), always on top, reset.
-- 1 day on Judy's clock = 30 minutes of real time.
+- **Time speed**: 1 day on Judy's clock = 30 minutes of real time.
 
 Judy Desktop Pet saves automatically and asks whether to save when you quit.
 Save file: `%APPDATA%\JudyDesktopPet-Lite\save.json` (paste `%APPDATA%\JudyDesktopPet-Lite` into the File Explorer address bar to jump straight there).
@@ -95,7 +95,7 @@ This is an unofficial, non-commercial fan project. Judy Alvarez, Cyberpunk 2077 
 - **钱（eddies）**：初始 €100，桌宠运行时每 30 秒 +€1。
 - **商城**：点状态栏上的钱可以打开商城。点物品选中，再点 **BUY** 购买。披萨 €15，小可可乐 €8。
 - **背包**：点状态栏上的任意状态均可打开背包。单击食物或饮料或者拖到朱迪身上都可以投喂她。
-- **右键朱迪会弹出行为选单 → ACTIONS**，可以发出指令：吃东西、喝饮品、睡觉、换房间、停止当前行为。
+- **右键朱迪**会弹出行为选单 → **ACTIONS** 可以发出指令：吃东西、喝饮品、睡觉、换房间、停止当前行为。
 - **朱迪也会照顾自己**：困了或者到点了会自己去睡觉，饿了会自己吃喝，如果正好没有食物饮料，钱够的话她会自己下单。
 - **菜单**（左上角图标）：隐藏界面、暂停、日志、设置、退出。
 - **移动**（左上角图标）：按住拖动整个桌宠窗口。
